@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/U0AQpiA6nnbt5QJEPRX0UdueVfntdallOdtviz6giyk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzg3L2Yz/L2YxLzg3ZjNmMTQy/NWIyMTc2OTFkYTY0/NWU5N2RiYjUwZDU1/LmdpZg.gif)]
+![MasterHead](https://imgs.search.brave.com/U0AQpiA6nnbt5QJEPRX0UdueVfntdallOdtviz6giyk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzg3L2Yz/L2YxLzg3ZjNmMTQy/NWIyMTc2OTFkYTY0/NWU5N2RiYjUwZDU1/LmdpZg.gif)
 <h1 align="center">Hi 👋, I'm Gaurav Chaurasia</h1>
 <h3 align="center">A passionate Full Stack Web developer from India.</h3>
 src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif"
