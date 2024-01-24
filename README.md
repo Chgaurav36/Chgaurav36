@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, MongoDB, NodeJs, ExpressJs, WebRtc, SocketIO,**
 
-- 💬 Ask me about **HTML, CSS, JavaScript,**
+- 💬 Ask me about **React, HTML, CSS, JavaScript, Tailwind**
 
 - 📫 How to reach me **gauravchaurasia619@gmail.com**
 
